@@ -1,0 +1,6 @@
+h1{color:rgba(0,0,0,1.00);font-family:anonymous-pro;font-size:50px;text-align:left; }
+p{color:rgba(0,0,0,1.00);font-family:anonymous-pro;font-size:18px;text-align: center;}
+a{color:rgba(0,0,0,1.00);font-family:anonymous-pro;font-size:18px;text-align: center;}
+body{background-color:rgba(173,174,175,1.00);background-image: url("Banner img.jpg");background-repeat: repeat-x;}
+a:hover{color:rgba(0,164,0,1.00);font-style:italic;text-align: center;}
+image.center{display: block;margin: 0 auto;}
